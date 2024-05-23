@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Elias Junior.
-Graduado em Ciência de Dados e apaixonado por explorar o mundo dos dados.
+Graduado em Ciência de Dados, cursando pós-graduação em Estatística Aplicada e apaixonado por explorar o mundo dos dados.
 
 Este perfil é um espaço, onde compartilho projetos que destacam minhas habilidades em análise e manipulação de dados e machine learning. Aqui, você encontrará uma variedade de projetos que demonstram meu domínio das ferramentas e processos fundamentais de Machine Learning, Ciência e Análise de Dados.
 
